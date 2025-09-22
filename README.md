@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/birthday-site-v2.git
+git clone https://github.com/Monster0087/birthday-site-v2
 
 # Navigate into the folder
 cd birthday-site-v2
