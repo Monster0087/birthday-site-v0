@@ -13,6 +13,8 @@ export default function PhotoGallery({ onNext }) {
     const photos = [
         { id: 1, src: "/images/IMG-20250504-WA0055.jpg" },
         { id: 2, src: "/images/IMG-20250518-WA0017.jpg" },
+        { id: 3, src: "/images/IMG-20250518-WA0017.jpg" },
+        { id: 4, src: "/images/IMG-20250518-WA0017.jpg" },
     ]
 
     return (
