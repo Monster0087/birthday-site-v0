@@ -11,7 +11,7 @@ import 'swiper/css/pagination'
 export default function PhotoGallery({ onNext }) {
 
     const photos = [
-        { id: 1, src: "/c93db564-07d0-48f7-85e2-0797018ab245.jpg" },
+        { id: 1, src: "/images/c93db564-07d0-48f7-85e2-0797018ab245.jpg" },
         { id: 2, src: "/images/IMG-20250504-WA0055.jpg" },
         { id: 3, src: "/images/IMG-20250809-WA0013.jpg" },
         { id: 4, src: "/images/IMG-20250518-WA0017.jpg" },
