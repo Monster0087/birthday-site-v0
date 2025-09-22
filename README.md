@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/Monster0087/birthday-site-v2
 
 # Navigate into the folder
-cd birthday-site-v2
+cd birthday-site-v6
 
 # Install dependencies
 npm install
