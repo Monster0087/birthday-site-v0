@@ -6,10 +6,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Monster0087/birthday-site-v0
+git clone https://github.com/Monster0087/birthday-site-v25
 
 # Navigate into the folder
-cd birthday-site-v0
+cd birthday-site-v25
 
 # Install dependencies
 npm install
